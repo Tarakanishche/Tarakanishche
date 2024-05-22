@@ -24,8 +24,8 @@
 - 📚 Завершил курсы по Data Science в Яндекс Практикуме и Stepik'e!
 
 - 👨‍💻 Мои проекты доступны по ссылке: [https://github.com/Tarakanishche/Portfolio](https://github.com/Tarakanishche/Portfolio)
+<br/> 
 
-###
 
 <h3 align="left">🛠 Мой стек технологий:</h3>
 
