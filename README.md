@@ -25,6 +25,11 @@
 
 - 👨‍💻 Мои проекты доступны по ссылке: [https://github.com/Tarakanishche/Portfolio](https://github.com/Tarakanishche/Portfolio)
 
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ###
 
